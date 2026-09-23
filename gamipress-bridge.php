@@ -1,9 +1,9 @@
 <?php
 /*
    Copyright (C) 2026  Lorenzo Armezzani
-   Plugin Name: App GamiPress Bridge
+   Plugin Name: GamiPress Bridge
    Description: Endpoint REST API leggeri e sicuri per l'integrazione tra l'App mobile e GamiPress (Punti, Badge, Casi Chiusi e Profilo Utente).
-   Version: 1.1
+   Version: 1.2
    IA: Gemini assisted
    
    This program is free software: you can redistribute it and/or modify
